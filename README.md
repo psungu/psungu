@@ -1,6 +1,6 @@
 # Hello, I'm Pınar Süngü İşiaçık! 👋
 
-I'm a dedicated Machine Learning Engineer specialized in Natural Language Processing (NLP) and leveraging AWS technologies to build scalable AI solutions. With a rich background in deploying deep learning and machine learning algorithms for complex forecasting and classification tasks, I excel in using RNN, CNN, XGBoost, and discriminant analysis to drive innovation. Currently leading product matching system development at Cimri, I’m passionate about exploring transformers and GPT to advance language understanding and generation capabilities.
+I'm a dedicated Machine Learning Engineer specialized in Natural Language Processing (NLP) and leveraging AWS technologies to build scalable AI solutions. With a rich background in deploying deep learning and machine learning algorithms for complex forecasting and classification tasks, I excel in using RNN, CNN, XGBoost, and discriminant analysis to drive innovation. I’m passionate about exploring transformers and GPT to advance language understanding and generation capabilities.
 
 🔭 I'm presently focusing on employing state-of-the-art NER models with transformer architectures and cutting-edge image embedding techniques for product information extraction and identification.
 
