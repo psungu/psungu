@@ -13,8 +13,30 @@ I'm a dedicated Machine Learning Engineer specialized in Natural Language Proces
 📫 How to reach me: psungu34@gmail.com | LinkedIn: [pinarsungu](https://linkedin.com/in/pinarsungu)
 
 ### Languages and Tools:
-- **Programming Languages & Utilities:** Python, R, MSSQL, OracleSQL, PyTorch, Numpy, OpenCV, Git, Jira, Pandas, Matplotlib, Seaborn, BigQuery, Confluence, Dask, AWS, Docker, Kubernetes, Pytorch
-- **Familiar With:** C#
+
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=R&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white" />
+  <img alt="Numpy" src="https://img.shields.io/badge/-Numpy-013243?style=flat-square&logo=Numpy&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=Pandas&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
+  <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
+  <img alt="Jira" src="https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=Jira-Software&logoColor=white" />
+  <img alt="Confluence" src="https://img.shields.io/badge/-Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white" />
+  <img alt="BigQuery" src="https://img.shields.io/badge/-BigQuery-4285F4?style=flat-square&logo=Google-Cloud&logoColor=white" />
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white" />
+  <img alt="Triton Inference Server" src="https://img.shields.io/badge/-Triton%20Inference%20Server-76B900?style=flat-square&logo=NVIDIA&logoColor=white" />
+  <img alt="Elasticsearch" src="https://img.shields.io/badge/-Elasticsearch-005571?style=flat-square&logo=Elasticsearch&logoColor=white" />
+  <img alt="Solr" src="https://img.shields.io/badge/-Solr-D9411E?style=flat-square&logo=ApacheSolr&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" />
+
+</p>
+
+
 
 ### My GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=psungu&show_icons=true&theme=radical)
