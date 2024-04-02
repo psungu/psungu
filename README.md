@@ -10,7 +10,7 @@ I'm a dedicated Machine Learning Engineer specialized in Natural Language Proces
 
 💬 Feel free to ask me about deploying scalable machine learning models, NLP advancements, or any AWS technologies.
 
-📫 How to reach me: psungu34@gmail.com | LinkedIn: [pinarsungu](https://linkedin.com/in/pinarsungu)
+📫 How to reach me: psungu34@gmail.com 
 
 ### Languages and Tools:
 
