@@ -6,12 +6,6 @@ I'm a dedicated Machine Learning Engineer specialized in Natural Language Proces
 
 🌱 I’m on a continuous learning path, currently delving deeper into Kubernetes, Jenkins, Docker, and FastAPI for optimizing AI model deployment and system performance.
 
-👯 Open to collaborating on projects that push the boundaries of NLP and AI, particularly those that harness the power of transformers and cloud technologies to solve real-world problems.
-
-💬 Feel free to ask me about deploying scalable machine learning models, NLP advancements, or any AWS technologies.
-
-📫 How to reach me: psungu34@gmail.com 
-
 ### Languages and Tools:
 
 <p>
